@@ -44,13 +44,14 @@ Paso #3 Importar el script
 
 Paso #3.1
 Dirigirse a el apartado Data Import
+Como podemos ver acontinuación
 
-Como podemos ver acontnuación
 https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/uno.png
 
 Paso #3.2
 Seleccionar el back up, donde lo hayas guardado.
-Como podemos ver acontnuación
+Como podemos ver acontinuación
+
 https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/dos.png
 
 
