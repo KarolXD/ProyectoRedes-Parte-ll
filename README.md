@@ -42,7 +42,8 @@ Paso #2 Configuración de Credenciales
 
 Paso #3 Importar el script
 
-
+https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/uno.png
+uno
 
 
 # Título del Proyecto
