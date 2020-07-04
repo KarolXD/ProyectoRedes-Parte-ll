@@ -68,8 +68,11 @@ Qué cosas necesita para instalar el software y cómo instalarlas
 
 Necesito:
 -Gestor de Base de datos
+
 -IDE de desarrollo
+
 -uso de conector de mysql 
+
 
 #Para este demo, se desarrolló en  el ID Netbeans version 8.0
 
@@ -90,9 +93,10 @@ Guarde el archivo del instalador en el sistema.
 
 Java
 
-Ve a la pagina de Java
-Opcion descargar java
-DEscargar e instalar
+Ve a la pagina:
+https://www.oracle.com/technetwork/es/java/javase/downloads/index.html
+Para empezar a descargar el jdk que utiliza 
+Descargar e instalar
 
 MySql
 
@@ -116,9 +120,10 @@ podemos encontrar el conector que se utilizó para el presente proyecto.
 # Ejecutando las pruebas
 Se menciona cómo ejecutar las pruebas automatizadas para este sistema.
 
-Registrar Clientes
 Autenticación de Clientes
+
 Transferencia de archivos
+
 Conexión Cliente-Servidor
 
 # Desglosar en pruebas de extremo a extremo
@@ -129,20 +134,28 @@ Prueban que se pueda autenticar un cliente en el sistema y que no entren persona
 Prueba que se  pueda transferir un archivo desde un lugar a otro
 
 # Construido con
-Java: Se utulizó como Lenguaje de Programación
-Mysql: Se utilizpo como Gestor de Base de datos
-Git: Se utulizó como controlador de versiones y tareas
+Java: Se utilizó como Lenguaje de Programación
+
+Mysql: Se utilizó como Gestor de Base de datos
+
+Git: Se utilizó como controlador de versiones y tareas
+
 IDE: Se usó como entorno de desarrollo
-conector mysq: Se utilizó para establecer la comunicación entre java y el gestor de la base de datos
+
+conector mysql: Se utilizó para establecer la comunicación entre java y el gestor de la base de datos
 
 # Versionado
 Version jdk:8
+
 Version Mysql: 8.0
+
 Version IDE: 8.2
+
 Version conectorMsql 5.1
 
 # Autores
 Jahanel Rivera Barboza
+
 Karolina Montenegro Guzmán
 
 # Licencia
