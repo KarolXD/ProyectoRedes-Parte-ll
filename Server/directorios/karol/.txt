@@ -1,0 +1,27 @@
+precio
+fechaini
+fechafin
+porcentaje descuento cuanto se bgana la gente si compro ese producto
+
+
+
+
+luego estimar cauntos de ese click se incrementaron en una oferta especifica
+
+contador de click por cliente
+
+
+-------------
+tabla hacer egistro contadores de click
+por categoria, subcategoria,criterio, valor, 
+
+
+crud ofertas fechainiico,fecha fin, precio, porcentaje descuento
+
+alimentacion tabla clicks desestimados contador de clicks de ofertas
+
+
+onclick='javascript:contadorCategorias2();' 
+
+
+http://127.0.0.1/tecnotienda/tecnotienda/index.php?controlador=SubCategoria&accion=filtrarmostrardetallesSubcategoriaCliente&criteriovalor=3&valor=0

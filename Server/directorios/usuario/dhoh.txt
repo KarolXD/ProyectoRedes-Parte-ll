@@ -1,0 +1,125 @@
+Calidad de Software
+
+
+como puedo asegurar la calidad
+estandares
+
+aseguramiento de la calidad\
+
+fijo sale esto/...
+
+aseguramiento: Asegurar de que sirva
+
+a guevo tiene que ver
+
+control de calidad: Pruebo al final de cada 
+hago pruebas intermedias, finalizo un sprint y le hago pruebas es control
+
+
+
+si uno aplica estandares, no va a necesitar tanto el control xq ya sabe que va bien
+aseguramiento-> preventivo antes de que sucedan las cosas mas general
+las reglas tienenn que estar definidas, la organizacion tiene que tener fdefinido las practicas..
+
+control calidad, cuando termine entregable hacerle pruebas,
+
+validar que realmente se aplico la calidad
+
+calidad-> menos errrores con control
+
+
+retraba si hago control de calidad
+si jamas vamos a desarrollar un producto perfeto
+si aplico control de calidad fijo retrabajo
+xq si hay algo malo, haya que devolverse y arreglarlo
+
+
+asegu no me acesura que todo este perfecto me salen errores pero es minimo
+
+ojo cajas blanca y negra
+
+caje negra
+
+caja blanca
+
+pear reviews
+revisar en parejas
+efectividad de errroes es mayor
+
+
+si son proyectos mas largos, hacer pruebas en grupos esta mas que justificada la razon
+
+
+patron de eerores
+algo que see repite comunmente
+
+cuando aplica en parejas?
+ejemplo cuando entra una persona nueva a bretear
+y tienen que hacer pruebas en parejas
+-malisia
+
+
+
+CONTROL DE CALIDAD
+caja blanca no deja que avance is tiene caaca
+se q en los primeros pasoshay errrpes  -> reviciones=caja blanca
+caje negra ya esta enbarrado
+
+caja blanca: si conoz contexto y voy haciendo debugueo voy viendo si el proceso va quqedando bien
+caja negra>
+
+
+
+
+cronograma-> herramienta tengo todas las tareas, en que fecha, quien hace que cosa,
+mas ruta critica, o sea si se atraza una ruta
+secuencia tareas, que le sigue a la otra, con asignacion al personal, que nadie este sobrecargado
+
+
+
+
+
+causa defecto
+autor defecto
+criticidad defecto
+etapa donde encontré el defecto
+
+clasificacion defecto
+
+
+EXAMEN FIJO CLASIFICACION DEFECTO
+
+-Categoria defecto (funcional no funcional)
+
+cual es el usuario que mas falla 
+dueno defecto
+
+se define antes de que arranque el proyecto
+
+definir que etapa me esta
+5 defctos analisis
+5 requerimintos
+80 en desarollo
+
+uno lo que hace es capacitar
+
+clasificacion    
+            etapa            etapa          etapa      etapa
+         requerimientos  analisis       diseno      desarollo    etapa
+karol          5              5             10            80
+
+
+deeventaja, se me va mucho tiempo
+
+
+
+
+
+
+
+
+
+
+
+
+
