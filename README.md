@@ -55,6 +55,10 @@ Como podemos ver acontinuación
 https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/dos.png
 
 
+
+
+Nota: Tanto el backup como el script de la base de datos, han sido subidos al repositorio:
+
 # Título del Proyecto
 Creacion de un servidor FTP para conexion de N Clientes para transferencia de archivos
 
