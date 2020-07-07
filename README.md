@@ -199,8 +199,9 @@ Karolina Montenegro Guzmán
 Este proyecto no está licenciado bajo alguna  Licencia
 
 # Expresiones de gratitud
-A guide to java sockets cuyo código ha sido utilizado: https://www.baeldung.com/a-guide-to-java-sockets
-Conectarse a un ftp con java cuyo código se ha utilizado : http://lineadecodigo.com/java/conectarse-a-un-ftp-con-java/
+A guide to java sockets cuyo código ha sido consulado: https://www.baeldung.com/a-guide-to-java-sockets
+
+Conectarse a un ftp con java cuyo código se ha consulado : http://lineadecodigo.com/java/conectarse-a-un-ftp-con-java/
 
 etc.
 
