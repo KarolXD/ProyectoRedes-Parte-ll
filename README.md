@@ -68,13 +68,13 @@ Paso #3.1
 Dirigirse a el apartado Data Import
 Como podemos ver acontinuación
 
-https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/uno.png
+![](https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/uno.png)
 
 Paso #3.2
 Seleccionar el back up, donde lo hayas guardado.
-Como podemos ver acontinuación
+Como podemos ver a continuación
 
-https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/dos.png
+![](https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/dos.png)
 
 
 
@@ -138,8 +138,18 @@ En cualquier caso, tendremos que dirigirnos a la zona inferior de la nueva pági
 Conector mysql
 Se dirige a la página oficial de mysql, y pueda buscar en la sección de conectores, la versión que se adapte a sus necesidades, para este proyecto de utilizó la 5.1
 
-Otra opción: En el presente proyecto, en la siguiente ruta \\ProyectoRedes\Server\dist\lib
-podemos encontrar el conector que se utilizó para el presente proyecto.
+***Otra opción: En el presente proyecto, en la siguiente ruta \ProyectoRedes\Server\dist\lib podemos encontrar el conector que se utilizó para el presente proyecto.
+Para utilizarlo, darás click sobre el proyecto/Resolve Project Problems
+
+Como veremos a continuación
+
+![](https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/rp.PNG)
+
+
+**Luego, darás click, sobre el botón 'Resolve' (imagen de la derecha) y buscas el conector(imagen derecha) Una vez que encuentres el conector, le darás click sobre el botón 'open'
+
+![](https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/conector.PNG)
+
 
 
 
