@@ -146,7 +146,7 @@ Como veremos a continuación
 ![](https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/rp.PNG)
 
 
-**Luego, darás click, sobre el botón 'Resolve' (imagen de la derecha) y buscas el conector(imagen derecha) Una vez que encuentres el conector, le darás click sobre el botón 'open'
+**Luego, darás click, sobre el botón 'Resolve' (imagen de la derecha) y buscas el conector(imagen izquierda) Una vez que encuentres el conector, le darás click sobre el botón 'open'
 
 ![](https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/conector.PNG)
 
