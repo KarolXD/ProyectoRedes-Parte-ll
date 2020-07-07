@@ -100,7 +100,7 @@ Necesito:
 -uso de conector de mysql 
 
 
-#Para este demo, se desarrolló en  el ID Netbeans version 8.0
+#Para este demo, se desarrolló en  el ID Netbeans version 11.3
 
 Como instalarlos?
 Tanto El ID como el gestor de bases de datos se descargan de la web solo es cuestion de instalar,
@@ -186,7 +186,7 @@ Version jdk:8
 
 Version Mysql: 8.0
 
-Version IDE: 8.2
+Version IDE: 11.3
 
 Version conectorMsql 5.1
 
