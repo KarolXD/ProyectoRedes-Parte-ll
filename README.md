@@ -12,7 +12,8 @@ para ejecutar el proyecto y los pasos detallados.
 Para empezar con la clonación del repositorio,
 Usando el IDE Netbeans version 11.3
 
-**Paso #1**
+*  **Paso #1**
+
 Abre Netbeans
 
 **Paso #2**
@@ -206,9 +207,10 @@ Version IDE: 11.3
 Version conectorMsql 5.1
 
 # Autores
-Jahanel Rivera Barboza
 
-Karolina Montenegro Guzmán
+* Jahanel Rivera Barboza
+
+* Karolina Montenegro Guzmán
 
 # Licencia
 Este proyecto no está licenciado bajo alguna  Licencia
