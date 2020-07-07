@@ -6,6 +6,8 @@ para ejecutar el proyecto y los pasos detallados.
 
 
 
+
+
 # Clonando el repositorio
 Para empezar con la clonación del repositorio,
 Usando el IDE Netbeans version 11.3
