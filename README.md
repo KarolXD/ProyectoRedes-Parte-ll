@@ -8,7 +8,7 @@ para ejecutar el proyecto y los pasos detallados.
 
 # Clonando el repositorio
 Para empezar con la clonación del repositorio,
-Usando el IDE Netbeans version 8.0
+Usando el IDE Netbeans version 11.3
 
 ***Paso #1 Abre Netbeans
 
@@ -139,7 +139,8 @@ Conector mysql
 Se dirige a la página oficial de mysql, y pueda buscar en la sección de conectores, la versión que se adapte a sus necesidades, para este proyecto de utilizó la 5.1
 
 ***Otra opción: En el presente proyecto, en la siguiente ruta \ProyectoRedes\Server\dist\lib podemos encontrar el conector que se utilizó para el presente proyecto.
-Para utilizarlo, darás click sobre el proyecto/Resolve Project Problems
+
+Para el conector, se deberá importar de la siguiente forma: darás click sobre el proyecto/Resolve Project Problems
 
 Como veremos a continuación
 
