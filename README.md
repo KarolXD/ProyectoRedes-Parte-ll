@@ -5,31 +5,53 @@ El Readme de este repositorio tendrá una descripción del software que se debe 
 para ejecutar el proyecto y los pasos detallados. 
 
 
+
 # Clonando el repositorio
 Para empezar con la clonación del repositorio,
 Usando el IDE Netbeans version 8.0
 
-Paso #1 Abre Netbeans
+***Paso #1 Abre Netbeans
 
-Paso #2 Se dirige a la navegación #Team en ingles, en español #Equipo
+***Paso #2 Se dirige a la navegación #Team en ingles, en español #Equipo
 
-Paso #3 Se dirige a la siguiente ruta Git/Clone/
+Como podemos ver a continuación...
+![](https://github.com/KarolXD/ProyectoRedes/blob/master/imagenes/team.PNG)
 
-Paso #4  En la pantalla "Clone Repo"
 
-1.1 Se le pedirá el link del repositorio
+***Paso #3 Se dirige a la siguiente ruta Git/Clone/
+
+Como podemos ver a continuación...
+![](https://github.com/KarolXD/ProyectoRedes/blob/master/imageneso/ruta.PNG)
+
+
+***Paso #4  En la pantalla "Clone Repo"
+
+1.1 Se le pedirá el link del repositorio, así como las credenciales 
 
 1.2 Dirección o ruta donde se clonará  el repositorio.
 Ambos datos deben ser editables por el Usuario
 Cuando se llenen los datos, que dije anteriormente, se da click sobre el botón 'Next'
-
-Paso #5 Next
-
-Paso #6 Next
+Como podemos ver a continuación...
 
 
+![](https://github.com/KarolXD/ProyectoRedes/blob/master/imagenes/cloneteRepo.PNG)
 
-Lista clonación del repositorio
+
+***Paso #5  
+Presionas sobre el botón Next
+Como podemos ver a continuación...
+
+![](https://github.com/KarolXD/ProyectoRedes/blob/master/imagenes/next1.PNG)
+
+Paso #6 Presionas sobre el botón Finish
+Como podemos ver a continuación...
+
+![](https://github.com/KarolXD/ProyectoRedes/blob/master/imagenes/finist.PNG)
+
+
+--Lista clonación del repositorio
+Nota: El repositorio se clona con exito, sin embargo  se le mostrará algunas advetencias en el proyecto, esto es porque para este proyecto, se usa un conectar, para la comunicación del lenguaje con el gestor de base de datos, por tanto en el apartado ' Instalando' se detalla en qué ruta se encuentra el conector
+
 
 
 
