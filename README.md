@@ -32,7 +32,7 @@ Como podemos ver a continuación...
 ![]( https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/ruta.PNG)
 
 
-* **Paso #4 **
+* **Paso #4**
 
 En la pantalla "Clone Repo"
 
