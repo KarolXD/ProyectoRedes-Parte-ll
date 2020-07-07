@@ -10,7 +10,7 @@ para ejecutar el proyecto y los pasos detallados.
 Para empezar con la clonación del repositorio,
 Usando el IDE Netbeans version 11.3
 
-***Paso #1 Abre Netbeans
+**Paso #1 Abre Netbeans**
 
 ***Paso #2 Se dirige a la navegación #Team en ingles, en español #Equipo
 
@@ -24,7 +24,7 @@ Como podemos ver a continuación...
 ![]( https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/ruta.PNG)
 
 
-***Paso #4  En la pantalla "Clone Repo"
+**Paso #4  En la pantalla "Clone Repo"**
 
 1.1 Se le pedirá el link del repositorio, así como las credenciales 
 
