@@ -40,6 +40,7 @@ En la pantalla "Clone Repo"
 * 1.1 Se le pedirá el link del repositorio, así como las credenciales 
 
 * 1.2 Dirección o ruta donde se clonará  el repositorio.
+
 Ambos datos deben ser editables por el Usuario
 Cuando se llenen los datos, que dije anteriormente, se da click sobre el botón 'Next'
 Como podemos ver a continuación...
