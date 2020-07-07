@@ -178,23 +178,6 @@ Como veremos a continuación
 
 
 
-
-# Ejecutando las pruebas
-Se menciona cómo ejecutar las pruebas automatizadas para este sistema.
-
-Autenticación de Clientes
-
-Transferencia de archivos
-
-Conexión Cliente-Servidor
-
-# Desglosar en pruebas de extremo a extremo
-Se explica qué prueban estas pruebas y por qué.
-
-Prueban  que se pueda registrar "n" cliente para que puedan acceder a el servidor.
-Prueban que se pueda autenticar un cliente en el sistema y que no entren personas que no estén autenticadas
-Prueba que se  pueda transferir un archivo desde un lugar a otro
-
 # Construido con
 * **Java:** Se utilizó como Lenguaje de Programación
 
