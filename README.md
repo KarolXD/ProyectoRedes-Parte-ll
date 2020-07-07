@@ -15,13 +15,13 @@ Usando el IDE Netbeans version 8.0
 ***Paso #2 Se dirige a la navegación #Team en ingles, en español #Equipo
 
 Como podemos ver a continuación...
-![](https://github.com/KarolXD/ProyectoRedes/blob/master/imagenes/team.PNG)
+![](https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/team.PNG)
 
 
 ***Paso #3 Se dirige a la siguiente ruta Git/Clone/
 
 Como podemos ver a continuación...
-![](https://github.com/KarolXD/ProyectoRedes/blob/master/imageneso/ruta.PNG)
+![]( https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/ruta.PNG)
 
 
 ***Paso #4  En la pantalla "Clone Repo"
@@ -34,19 +34,19 @@ Cuando se llenen los datos, que dije anteriormente, se da click sobre el botón 
 Como podemos ver a continuación...
 
 
-![](https://github.com/KarolXD/ProyectoRedes/blob/master/imagenes/cloneteRepo.PNG)
+![](https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/cloneteRepo.PNG)
 
 
 ***Paso #5  
 Presionas sobre el botón Next
 Como podemos ver a continuación...
 
-![](https://github.com/KarolXD/ProyectoRedes/blob/master/imagenes/next1.PNG)
+![](https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/next1.PNG)
 
 Paso #6 Presionas sobre el botón Finish
 Como podemos ver a continuación...
 
-![](https://github.com/KarolXD/ProyectoRedes/blob/master/imagenes/finist.PNG)
+![](https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/finist.PNG)
 
 
 --Lista clonación del repositorio
