@@ -1,7 +1,7 @@
 # Creación de un Servidor FTP
 
 
-El Readme de este repositorio tendrá una descripción del software que se debe instalar
+* El Readme de este repositorio tendrá una descripción del software que se debe instalar
 para ejecutar el proyecto y los pasos detallados. 
 
 
@@ -25,6 +25,7 @@ Como podemos ver a continuación...
 
 
 * **Paso #3** 
+
 Se dirige a la siguiente ruta Git/Clone/
 
 Como podemos ver a continuación...
@@ -35,9 +36,9 @@ Como podemos ver a continuación...
 
 En la pantalla "Clone Repo"
 
-1.1 Se le pedirá el link del repositorio, así como las credenciales 
+* 1.1 Se le pedirá el link del repositorio, así como las credenciales 
 
-1.2 Dirección o ruta donde se clonará  el repositorio.
+* 1.2 Dirección o ruta donde se clonará  el repositorio.
 Ambos datos deben ser editables por el Usuario
 Cuando se llenen los datos, que dije anteriormente, se da click sobre el botón 'Next'
 Como podemos ver a continuación...
