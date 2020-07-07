@@ -64,8 +64,9 @@ Como podemos ver a continuación...
 
 
 --Lista clonación del repositorio
-**Nota:**
-El repositorio se clona con exito, sin embargo  se le mostrará algunas advetencias en el proyecto, esto es porque para este proyecto, se usa un conectar, para la comunicación del lenguaje con el gestor de base de datos, por tanto en el apartado ' Instalando' se detalla en qué ruta se encuentra el conector
+
+* **Nota:**
+El repositorio se clona con exito, sin embargo  se le mostrará algunas advetencias en el proyecto, esto es porque para este proyecto, se usa un conector, para la comunicación del lenguaje con el gestor de base de datos, por tanto en el apartado ' Instalando' se detalla en qué ruta se encuentra el conector, y como se debe importa al proyecto.
 
 
 
