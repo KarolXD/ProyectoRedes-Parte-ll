@@ -29,6 +29,7 @@ Como podemos ver a continuación...
 Se dirige a la siguiente ruta Git/Clone/
 
 Como podemos ver a continuación...
+
 ![]( https://github.com/KarolXD/ProyectoRedes-Parte-ll/blob/master/imagenes/ruta.PNG)
 
 
