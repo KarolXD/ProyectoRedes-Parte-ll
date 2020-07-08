@@ -150,8 +150,11 @@ Descargar e instalar
 
 Lo primero que tendremos que hacer por supuesto, es descargar la herramienta en la página oficial (https://dev.mysql.com/downloads/workbench/)  y seguir los pasos para su instalación.
 
+
 * **Conector mysql**
-Se dirige a la página oficial de mysql, y pueda buscar en la sección de conectores, la versión que se adapte a sus necesidades, para este proyecto de utilizó la 5.1
+Se dirige a la página oficial de mysql y pueda buscar en la sección de conectores, la versión que se adapte a sus necesidades, para este proyecto de utilizó la 5.1.
+En este link podrá encontrar el conector https://dev.mysql.com/downloads/connector/j/
+
 
 **Otra opción:**
 En el presente proyecto, en la siguiente ruta \ProyectoRedes\Server\dist\lib podemos encontrar el conector que se utilizó para el presente proyecto.
