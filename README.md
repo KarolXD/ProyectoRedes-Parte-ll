@@ -125,15 +125,10 @@ Necesito:
 
 * JDK
 
-#Para este demo, se desarrolló en  el ID Netbeans version 11.3
-
-Como instalarlos?
-Tanto El ID como el gestor de bases de datos, y el jdk se descargan de la web solo se necesita ir a el sitio oficial e instalar
-El conector mysql  se usa para la conexion a la BD, se descargan de la web y  los sockets  la cual nos permiten la transferencia de archivos
 
 
 # Instalando
-En este apartado, se Brindan una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo
+En este apartado, se brindan una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo
 
 
 * **IDE**
@@ -186,7 +181,7 @@ Como veremos a continuación
 **Conector mysql:** Se utilizó para establecer la comunicación entre java y el gestor de la base de datos
 
 # Versionado
-**Version jdk:** 8.0
+*Version jdk: 8.0
 
 * Version Mysql: 8.0
 
