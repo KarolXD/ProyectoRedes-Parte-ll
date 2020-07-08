@@ -181,7 +181,8 @@ Como veremos a continuación
 **Conector mysql:** Se utilizó para establecer la comunicación entre java y el gestor de la base de datos
 
 # Versionado
-*Version jdk: 8.0
+
+* Version jdk: 8.0
 
 * Version Mysql: 8.0
 
