@@ -123,25 +123,28 @@ Necesito:
 
 * Conector de mysql 
 
+* JDK
 
 #Para este demo, se desarrolló en  el ID Netbeans version 11.3
 
 Como instalarlos?
-Tanto El ID como el gestor de bases de datos se descargan de la web solo es cuestion de instalar,
-para poder gestionar el programa se tiene que descargar java el cual se usa para la creacion del programa,
+Tanto El ID como el gestor de bases de datos, y el jdk se descargan de la web solo se necesita ir a el sitio oficial e instalar
 El conector mysql  se usa para la conexion a la BD, se descargan de la web y  los sockets  la cual nos permiten la transferencia de archivos
 
 
 # Instalando
-Una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo
+En este apartado, se Brindan una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo
 
-Vaya a la página de descargas de NetBeans IDE.
+
+* **IDE**
+
+Vaya a la página de descargas de NetBeans IDE. (https://netbeans.org/downloads/8.2/rc/)
 En la parte superior derecha de la página, seleccione el idioma y la plataforma en la lista desplegable. También puede optar por descargar y utilizar el archivo zip independiente de la plataforma.
 Haga clic en el botón Download (Descargar) de la opción de descarga que desee instalar.
 Guarde el archivo del instalador en el sistema.
 
 
-* **Java**
+* **JDK**
 
 Ve a la pagina:
 https://www.oracle.com/technetwork/es/java/javase/downloads/index.html
@@ -150,14 +153,7 @@ Descargar e instalar
 
 * **MySql**
 
-Lo primero que tendremos que hacer por supuesto, es instalar la herramienta principal,
- el motor de bases de datos y también vamos a provechar para instalar el cliente para la gestión 
-de las bases de datos. Para descargarlo tendremos que dirigirnos a su sitio web oficial,
- y en su página principal, pulsamos sobre “MySQL Comunnity Server”.
-
-En cualquier caso, tendremos que dirigirnos a la zona inferior de la nueva página y
- seleccionar la plataforma en la que deseamos instar MySQL. Por supuesto, será en Windows.
- Luego, tendremos que pulsar sobre la opción principal de “MySQL Installer for Windows”
+Lo primero que tendremos que hacer por supuesto, es descargar la herramienta en la página oficial (https://dev.mysql.com/downloads/workbench/)  y seguir los pasos para su instalación.
 
 * **Conector mysql**
 Se dirige a la página oficial de mysql, y pueda buscar en la sección de conectores, la versión que se adapte a sus necesidades, para este proyecto de utilizó la 5.1
@@ -190,7 +186,7 @@ Como veremos a continuación
 **Conector mysql:** Se utilizó para establecer la comunicación entre java y el gestor de la base de datos
 
 # Versionado
-**Version jdk:** 8
+**Version jdk:** 8.0
 
 * Version Mysql: 8.0
 
