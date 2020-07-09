@@ -24,9 +24,10 @@ import server.Server;
  */
 public class EnvioDato {
 
-    public static void enviar() throws FileNotFoundException, IOException {
-        String directory = "C:\\Users\\Jahanel\\Desktop\\archivos\\cliente";
-        String hostDomain = "192.168.1.59";
+        
+        
+    public static void enviarDATOS(String directory) throws FileNotFoundException, IOException {
+        String hostDomain = InetAddress.getLocalHost().getHostAddress();
         int port = 4400;
 
         File[] files = new File(directory).listFiles();
@@ -57,6 +58,23 @@ public class EnvioDato {
         }
 
         dos.close();
+    }
+    public static void enviar() throws FileNotFoundException, IOException {
+        String directory = "C:\\DropBox\\JAHA";
+    
+        File directorio = new File(directory);
+        if (!directorio.exists()) {
+            if (directorio.mkdirs()) {
+                enviarDATOS(directorio.toString());
+                System.out.println("Directorio creado");
+            } else {
+                System.out.println("Error al crear directorio");
+            }
+        }else{//SI EL DIRECTORIO EXISTE
+            
+            System.out.println("Directorio existente");
+            enviarDATOS(directory);
+        }
 
     }
 

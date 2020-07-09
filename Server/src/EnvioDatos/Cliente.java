@@ -31,10 +31,9 @@ public class Cliente {
         
     }
 
-    public void iniciar() throws IOException {
-        System.out.println("entro");
-        String dirPath = "C:\\Users\\Jahanel\\Desktop\\archivos\\servidor";
-        Socket socket = serverSocket.accept();
+    
+    public void iniciarServer(String dirPath) throws IOException {
+    Socket socket = serverSocket.accept();
 
         BufferedInputStream bis = new BufferedInputStream(socket.getInputStream());
         DataInputStream dis = new DataInputStream(bis);
@@ -60,5 +59,24 @@ public class Cliente {
         }
 
         dis.close();
+    }
+    public void iniciar() throws IOException {
+        System.out.println("entro");
+        String directory = "C:\\DropBox\\Servers\\Usuarios\\karol";//"C:\\Users\\Jahanel\\Desktop\\archivos\\servidor";
+        //    String directory = "C:\\DropBox\\JAHA";
+    
+        File directorio = new File(directory);
+        if (!directorio.exists()) {
+            if (directorio.mkdirs()) {
+                iniciarServer(directorio.toString());
+                System.out.println("Directorio creado");
+            } else {
+                System.out.println("Error al crear directorio");
+            }
+        }else{//SI EL DIRECTORIO EXISTE
+            
+            System.out.println("Directorio existente");
+            iniciarServer(directory);
+        }
     }   
 }
