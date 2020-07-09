@@ -20,20 +20,19 @@ import java.util.logging.Logger;
  *
  * @author Jahanel
  */
-public class Cliente {
+public class Servidor {
 
     ServerSocket serverSocket = null;
 
-    public Cliente() throws IOException {
-        
+    public Servidor() throws IOException {
+
         serverSocket = new ServerSocket(4400);
-        
-        
+
     }
 
-    
-    public void iniciarServer(String dirPath) throws IOException {
-    Socket socket = serverSocket.accept();
+    public void iniciarServer(String dirPath) throws IOException, Exception {
+        EncriptacionDescrip descrip = new EncriptacionDescrip();
+        Socket socket = serverSocket.accept();
 
         BufferedInputStream bis = new BufferedInputStream(socket.getInputStream());
         DataInputStream dis = new DataInputStream(bis);
@@ -45,7 +44,9 @@ public class Cliente {
         for (int i = 0; i < filesCount; i++) {
             long fileLength = dis.readLong();
             String fileName = dis.readUTF();
-
+            
+            descrip.Desencriptar(fileName);
+            
             files[i] = new File(dirPath + "\\" + fileName);
 
             FileOutputStream fos = new FileOutputStream(files[i]);
@@ -60,11 +61,13 @@ public class Cliente {
 
         dis.close();
     }
-    public void iniciar() throws IOException {
+
+    public void iniciar() throws IOException, Exception {
+
         System.out.println("entro");
-        String directory = "C:\\DropBox\\Servers\\Usuarios\\karol";//"C:\\Users\\Jahanel\\Desktop\\archivos\\servidor";
+        String directory = "C:\\DropBox\\Servers\\Usuario";//"C:\\Users\\Jahanel\\Desktop\\archivos\\servidor";
         //    String directory = "C:\\DropBox\\JAHA";
-    
+
         File directorio = new File(directory);
         if (!directorio.exists()) {
             if (directorio.mkdirs()) {
@@ -73,10 +76,10 @@ public class Cliente {
             } else {
                 System.out.println("Error al crear directorio");
             }
-        }else{//SI EL DIRECTORIO EXISTE
-            
+        } else {//SI EL DIRECTORIO EXISTE
+
             System.out.println("Directorio existente");
             iniciarServer(directory);
         }
-    }   
+    }
 }

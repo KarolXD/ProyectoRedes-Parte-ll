@@ -17,7 +17,7 @@ import server.Server;
 public class main {
 
     public static void main(String args[]) throws IOException, InterruptedException {
-       Cliente varios = new Cliente();
+       Servidor varios = new Servidor();
         while (true) {
             new Thread(new Runnable() {
                 @Override
@@ -26,6 +26,8 @@ public class main {
                         varios.iniciar();
                     } catch (IOException ex) {
                         Logger.getLogger(Server.class.getName()).log(Level.SEVERE, null, ex);
+                    } catch (Exception ex) {
+                        Logger.getLogger(main.class.getName()).log(Level.SEVERE, null, ex);
                     }
                 }
             }).start();

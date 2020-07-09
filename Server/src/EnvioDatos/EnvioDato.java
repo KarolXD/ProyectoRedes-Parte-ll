@@ -27,6 +27,7 @@ public class EnvioDato {
         
         
     public static void enviarDATOS(String directory) throws FileNotFoundException, IOException {
+        EncriptacionDescrip encritar= new EncriptacionDescrip();
         String hostDomain = InetAddress.getLocalHost().getHostAddress();
         int port = 4400;
 
@@ -44,6 +45,7 @@ public class EnvioDato {
             dos.writeLong(length);
 
             String name = file.getName();
+            encritar.Encriptar(name);
             dos.writeUTF(name);
 
             FileInputStream fis = new FileInputStream(file);
@@ -60,7 +62,7 @@ public class EnvioDato {
         dos.close();
     }
     public static void enviar() throws FileNotFoundException, IOException {
-        String directory = "C:\\DropBox\\JAHA";
+        String directory = "C:\\DropBox\\Usuario";
     
         File directorio = new File(directory);
         if (!directorio.exists()) {
