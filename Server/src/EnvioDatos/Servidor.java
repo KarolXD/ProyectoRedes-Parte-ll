@@ -31,7 +31,8 @@ public class Servidor {
     }
 
     public void iniciarServer(String dirPath) throws IOException, Exception {
-        EncriptacionDescrip descrip = new EncriptacionDescrip();
+        EncriptacionDescrip descrip = new EncriptacionDescrip();//Instancia de Clase Desencriptacion
+        
         Socket socket = serverSocket.accept();
 
         BufferedInputStream bis = new BufferedInputStream(socket.getInputStream());
@@ -45,7 +46,8 @@ public class Servidor {
             long fileLength = dis.readLong();
             String fileName = dis.readUTF();
             
-            descrip.Desencriptar(fileName);
+            
+            descrip.Desencriptar(fileName);//Se desencripta el archivo
             
             files[i] = new File(dirPath + "\\" + fileName);
 
@@ -65,7 +67,7 @@ public class Servidor {
     public void iniciar() throws IOException, Exception {
 
         System.out.println("entro");
-        String directory = "C:\\DropBox\\Servers\\Usuario";//"C:\\Users\\Jahanel\\Desktop\\archivos\\servidor";
+        String directory = "C:\\DropBox\\Server\\Usuario";//"C:\\Users\\Jahanel\\Desktop\\archivos\\servidor";
         //    String directory = "C:\\DropBox\\JAHA";
 
         File directorio = new File(directory);
